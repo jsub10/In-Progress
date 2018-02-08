@@ -1,4 +1,4 @@
-Welcome to In-Progress! Happy reading!
+## Table of Contents
 
 [Teaching Machine Learning](http://www.synaptiq.ai/blog-for-machine-learning-and-ai/2018/1/7/teaching-machine-learning)
 
