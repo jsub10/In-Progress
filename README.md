@@ -2,6 +2,9 @@
 
 [Machine Learning for Better Invoice Routing](https://nbviewer.jupyter.org/github/jsub10/In-Progress/blob/master/Invoice-Routing-Narrative.ipynb)
 
+[Code is here](https://nbviewer.jupyter.org/github/jsub10/In-Progress/blob/master/Invoice-Routing-Functions.ipynb)
+
+
 [Teaching Machine Learning](http://www.synaptiq.ai/blog-for-machine-learning-and-ai/2018/1/7/teaching-machine-learning)
 
 [Can Machines Decide What's Worthwhile?](http://nbviewer.jupyter.org/github/jsub10/In-Progress/blob/master/Can-Machines-Decide-What%27s-Worthwhile%3F.ipynb)
