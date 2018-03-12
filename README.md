@@ -1,5 +1,7 @@
 ### Table of Contents
 
+[Un- and Semi-Supervised Machine Learning](https://nbviewer.jupyter.org/github/jsub10/In-Progress/blob/master/Invoice-Routing-Narrative.ipynb)
+
 [Machine Learning for Better Invoice Routing](https://nbviewer.jupyter.org/github/jsub10/In-Progress/blob/master/Invoice-Routing-Narrative.ipynb)
 
 [Code for Machine Learning for Better Invoice Routing](https://nbviewer.jupyter.org/github/jsub10/In-Progress/blob/master/Invoice-Routing-Functions.ipynb)
