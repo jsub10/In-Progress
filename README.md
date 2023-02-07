@@ -17,4 +17,4 @@
 
 [Notes on Statistical Inference](https://nbviewer.jupyter.org/github/jsub10/In-Progress/blob/master/From-Probability-to-Statistical-Inference.ipynb)
 
-[More content...](http://tiq.datatiq.com)
+
